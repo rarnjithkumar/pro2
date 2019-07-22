@@ -1,7 +1,7 @@
 n=int(input())
-r=1
+f=1
 while(n>0):
-  r=r*n
+  f=f*n
   n=n-1
-  print(r)
+  print(f)
  
